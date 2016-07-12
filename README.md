@@ -1,3 +1,3 @@
-# ReadMe.
-Projects on C# (C Sharp) - Digital Org Project.
-Please do not copy the entire project and not positioning it as his own.
+Name: HitClick
+Date: 12.07.2016
+Version/Source Version: 2.0.2
